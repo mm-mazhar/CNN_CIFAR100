@@ -10,3 +10,11 @@ Checkout full notebook for model training.
 https://www.kaggle.com/mazhar01/cnn-cifar-100/output
 
 The 100 classes in the CIFAR-100 are grouped into 20 superclasses. Each image comes with a 'fin' label (the class to which it belongs) and a 'coarse' label (the superclass to which it belongs)
+
+<table style="width:100%">
+  <tr>
+    <td><img src="https://i.imgur.com/aRCdJ9Z.png" width="500px" height=225px/></td>
+    <td><img src="https://i.imgur.com/F41sf7q.png" width="500px" height=225px/></td>
+   
+   </tr>
+</table>
